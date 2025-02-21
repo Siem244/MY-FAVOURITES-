@@ -1,0 +1,44 @@
+#center {
+  text-align: center;
+}
+body {
+  width: 600px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  background: rgb(255, 255, 255, 0.9);
+  margin: 0px auto;
+  margin-bottom: 70px;
+  margin-top: 70px;
+  border-radius: 20px;
+}
+html {
+  background-image: url(img/grunge-watercolor-background-using-pastel-colours_1048-6530.jpg);
+
+  background-size: cover;
+}
+#img {
+  width: 600px;
+  height: 300px;
+}
+h1 {
+  margin-left: 110px;
+  font-family: fantasy;
+  font-size: 40px;
+}
+.h {
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+}
+h2 {
+  color: rgb(255, 0, 43);
+}
+h3 {
+  color: rgb(0, 157, 255);
+}
+h4 {
+  color: brown;
+}
